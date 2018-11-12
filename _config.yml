@@ -1,0 +1,33 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: StephanieRichardson.com
+layout_spectrum: 0.163507133256644
+typography_spectrum: 0.027211728738620877
+color:
+  brandStrength: 0.5767544198315591
+  lightness: 0.8407903721090406
+  saturation: 0.5986711045261472
+  rhythmicContrast: 0.13116389443166554
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+content: []
+github: true
+author:
+  name: Stephanie Richardson
+  email: Stephanie@StephanieRichardson.com
+  url: 'http://www.StephanieRichardson.com'
+analytics:
+  twitter: ''
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7242ebe0-a2ed-4b60-a0cc-148305ffe332.ico
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f74ee0-4fe9-45be-91ef-9a6f5509510d.png
