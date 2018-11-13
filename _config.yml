@@ -37,3 +37,6 @@ purpose:
   - type: external
     url: 'http://stephanierichardson.photo'
     label: Leadership Portraits
+  - type: contact
+    url: 'tel:4042721461'
+    label: Call Now
