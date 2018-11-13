@@ -33,3 +33,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f74ee0-4fe9-45be-91ef-9a6f5509510d.png
 title: Stephanie Richardson
 description: '& Jumping Chihuahua Productions, Inc'
+purpose:
+  - type: external
+    url: 'http://stephanierichardson.photo'
+    label: Session Details
